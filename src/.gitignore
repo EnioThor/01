@@ -1,0 +1,15 @@
+#igona as pastas especificas 
+env/
+arquivo/
+
+
+bloqueio de arquivo
+**/ModeloDoc.docx
+*/
+*/nomeDaPasta/
+
+#ignorar arquivos .txt da pasta util 
+teste/src/controller/nome/*
+
+
+
